@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+venv/
+env/
+.env.local
+
+# Node / Vite
+frontend/node_modules/.vite/
+.eslintcache
+dist/
+
+# SQLite databases & temp logs
+*.log
